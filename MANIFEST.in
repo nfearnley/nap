@@ -1,0 +1,3 @@
+graft nap/data
+graft docs
+recursive-include tests *.py
